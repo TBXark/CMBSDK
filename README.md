@@ -14,3 +14,6 @@
 pod 'CMBSDK'
 ```
 
+```ruby
+pod 'CMBSDK', :git=> 'https://github.com/letspod/CMBSDK'
+```
